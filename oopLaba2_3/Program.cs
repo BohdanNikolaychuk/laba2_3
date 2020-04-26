@@ -4,8 +4,7 @@ namespace oopLaba2_3
 {
     public partial class Program
     {
-        /*Визначити 1) номер мінімального елемента масиву; 2) добуток елементів масиву,
-        розташованих до першого нульового елемента*/
+        
         static int product ( int [] nums ,int n)
         {
             int x = 1;
